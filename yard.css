@@ -1,0 +1,59 @@
+body{
+    background-image: conic-gradient(darkred,red,orangered,orange,yellow,
+    yellowgreen,green,darkgreen,darkblue,blue,purple,darkred);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: cover;
+}
+h1{
+    color:yellow;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 4px 4px 30px yellow;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+}
+
+ul li{
+    list-style-type: none;
+    float: left;
+    margin-right: 40px;
+}
+
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+.lin{
+    box-shadow: 0px 0px 20px yellow;
+    background-color: green;
+    border-radius: 8px;
+}
+
+p{
+    color: white;
+}
+button{
+    background-color: purple;
+    border-color: yellow;
+    color: white
+}
+.src{
+    height: 40px;
+    width:80%;
+    margin-left: 90px;
+    border-radius: 5px;
+}
+.header button{
+    height: 40px;
+    width: 60px;
+    border-radius: 5px;
+}
+video{
+    width: 300xpx;
+    height: 200px;
+
+}
