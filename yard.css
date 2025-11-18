@@ -43,7 +43,7 @@ button{
 .src{
     height: 40px;
     width:80%;
-    margin-left: 90px;
+    margin-left: 70px;
     border-radius: 5px;
 }
 .header button{
@@ -53,6 +53,7 @@ button{
 }
 .down{
     color: yellow;
+
 
 
 
