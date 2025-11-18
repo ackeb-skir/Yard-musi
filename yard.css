@@ -2,8 +2,7 @@ body{
     background-image: conic-gradient(darkred,red,orangered,orange,yellow,
     yellowgreen,green,darkgreen,darkblue,blue,purple,darkred);
     background-repeat: no-repeat;
-    background-size: cover;
-    height: 200vh;
+    height: 100vh;
 }
 h1{
     color:yellow;
@@ -54,6 +53,7 @@ button{
 }
 .down{
     color: yellow;
+
 
 
 
